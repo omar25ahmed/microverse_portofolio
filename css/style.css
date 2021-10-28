@@ -35,3 +35,31 @@
   padding-bottom: 10rem;
   background-color: #45567d;
 }
+
+.footer-links {
+  margin-top: 70px;
+}
+
+.profile-link {
+  padding: 30px;
+  color: #f0f0f0;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: #45567d;
+}
+
+footer{
+  background-color: #303841;
+  color: #f0f0f0;
+  text-align: center;
+  padding: 100px;
+}
+
+footer > h2 {
+  font-style: italic;
+  font-size: 50px;
+}
+
+footer > p {
+  font-style: italic;
+}
